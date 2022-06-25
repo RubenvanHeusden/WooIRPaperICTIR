@@ -5,7 +5,10 @@ This is the repository containing the code for the experiments for the ICTIR sub
 ## Contents
 The repository contains a Jupyter notebook file that contains the experiments that were conducted in the paper. The datasets will soon become publicly available.
 
-
+- Experiments.ipynb
+- metricutils.py
+  - This file contains the metrics used in Experiments.ipynb and implements several convenience functions for the 
+    conversion of several different representations of streams used by the various metrics.
 
 ## Test Corpus
 
