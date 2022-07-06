@@ -1,5 +1,11 @@
 # Code for the paper 'WooIR: a New Open Page Stream Segmentation Dataset'
 
+# Index
+  -
+  -
+  -
+
+
 This repository contains the code used to conduct the experiments in the paper, as well as a link to access the
 datasets used and instructions on how to participate in the Document Splitting Challenge yourself.
 
