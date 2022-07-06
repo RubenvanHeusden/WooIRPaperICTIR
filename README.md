@@ -1,6 +1,7 @@
-# WooIRPaperICTIR
+# Code for the paper 'WooIR: a New Open Page Stream Segmentation Dataset'
 
-This is the repository containing the code for the experiments for the ICTIR submission on the WooIR dataset. 
+This repository contains the code used to conduct the experiments in the paper, as well as a link to access the
+datasets used and instructions on how to participate in the Document Splitting Challenge yourself.
 
 ## Contents
 The repository contains a Jupyter notebook file that contains the experiments that were conducted in the paper. The datasets will soon become publicly available.
@@ -13,3 +14,8 @@ The repository contains a Jupyter notebook file that contains the experiments th
 ## Test Corpus
 
 During the project a new subcorpus of concatenated documents was created through manual annotation by a number of students. This corpus has been ocr-ed and has alo been put on this repository. the png and pdf files will be distributed seperately.
+
+## Access to Datasets
+
+- Both corpora used in the research as well as the test corpus created by the students are publicly available through this link:
+- Apart from the datasets, the folder also contains a readme on the specific parts of the dataset, as well as Jupyter notebooks performing basic EDA and classification on the documents, as to provide examples to future participants on how to set up a classification system on the datasets.
