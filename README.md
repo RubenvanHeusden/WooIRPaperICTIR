@@ -19,3 +19,8 @@ During the project a new subcorpus of concatenated documents was created through
 
 - Both corpora used in the research as well as the test corpus created by the students are publicly available through this link:
 - Apart from the datasets, the folder also contains a readme on the specific parts of the dataset, as well as Jupyter notebooks performing basic EDA and classification on the documents, as to provide examples to future participants on how to set up a classification system on the datasets.
+
+## Participation
+
+- We are currently in the process of streamlining the submission process for new participants, an update will be placed on this Github repo when submissions for evaluation are possible.
+-
